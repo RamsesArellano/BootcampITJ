@@ -13,11 +13,7 @@ use the dip siwtch to change the value in the display
 
 ## How to test
 
-Explain how to use your project
-
+tey
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-2 push button
-7 segments display
-dip switch 8 entries
+CVD
